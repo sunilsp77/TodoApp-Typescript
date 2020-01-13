@@ -1,0 +1,4 @@
+{
+  // Plugins needed from Babel for it to compile our code.
+  "presets": ["@babel/env", "@babel/react", "@babel/typescript"]
+}
